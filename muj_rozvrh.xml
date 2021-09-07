@@ -1,0 +1,428 @@
+<rozvrh>
+
+<minhod>480</minhod>
+<maxhod>1200</maxhod>
+<hodiny>
+	<hodina><od>8:00</od><do>8:50</do></hodina>
+	<hodina><od>9:00</od><do>9:50</do></hodina>
+	<hodina><od>10:00</od><do>10:50</do></hodina>
+	<hodina><od>11:00</od><do>11:50</do></hodina>
+	<hodina><od>12:00</od><do>12:50</do></hodina>
+	<hodina><od>13:00</od><do>13:50</do></hodina>
+	<hodina><od>14:00</od><do>14:50</do></hodina>
+	<hodina><od>15:00</od><do>15:50</do></hodina>
+	<hodina><od>16:00</od><do>16:50</do></hodina>
+	<hodina><od>17:00</od><do>17:50</do></hodina>
+	<hodina><od>18:00</od><do>18:50</do></hodina>
+	<hodina><od>19:00</od><do>19:50</do></hodina>
+
+</hodiny>
+<tabulka>
+<den id="Po" rows="1">
+<radek num="1">
+
+	<slot pdiff="16" diff="24" odcas="08:00" docas="09:50"><mistnosti><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost></mistnosti><akce><kod>MV008</kod><nazev>Algebra I</nazev><predmetid>1195925</predmetid><fakulta_url>fi</fakulta_url><obdobi_url>podzim2019</obdobi_url></akce>
+	<ucitele><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>2906</ucitelid><uciteljmeno>M. Kunc</uciteljmeno></ucitel><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>2906</ucitelid><uciteljmeno>M. Kunc</uciteljmeno></ucitel><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>2906</ucitelid><uciteljmeno>M. Kunc</uciteljmeno></ucitel><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>2906</ucitelid><uciteljmeno>M. Kunc</uciteljmeno></ucitel><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>2906</ucitelid><uciteljmeno>M. Kunc</uciteljmeno></ucitel><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>2906</ucitelid><uciteljmeno>M. Kunc</uciteljmeno></ucitel><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>2906</ucitelid><uciteljmeno>M. Kunc</uciteljmeno></ucitel><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>2906</ucitelid><uciteljmeno>M. Kunc</uciteljmeno></ucitel><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>2906</ucitelid><uciteljmeno>M. Kunc</uciteljmeno></ucitel><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>2906</ucitelid><uciteljmeno>M. Kunc</uciteljmeno></ucitel><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>2906</ucitelid><uciteljmeno>M. Kunc</uciteljmeno></ucitel><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>2906</ucitelid><uciteljmeno>M. Kunc</uciteljmeno></ucitel><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>2906</ucitelid><uciteljmeno>M. Kunc</uciteljmeno></ucitel></ucitele>
+	</slot>
+	<break pdiff="8" diff="12" odcas="10:00" docas="11:00"/>
+	<break pdiff="8" diff="12" odcas="11:00" docas="12:00"/>
+
+	<slot pdiff="16" diff="24" odcas="12:00" docas="13:50"><mistnosti><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D2</mistnostozn>
+				<mistnostid>533</mistnostid></mistnost><mistnost><mistnostozn>D2</mistnostozn>
+				<mistnostid>533</mistnostid></mistnost><mistnost><mistnostozn>D2</mistnostozn>
+				<mistnostid>533</mistnostid></mistnost><mistnost><mistnostozn>D2</mistnostozn>
+				<mistnostid>533</mistnostid></mistnost><mistnost><mistnostozn>D2</mistnostozn>
+				<mistnostid>533</mistnostid></mistnost><mistnost><mistnostozn>D2</mistnostozn>
+				<mistnostid>533</mistnostid></mistnost><mistnost><mistnostozn>D2</mistnostozn>
+				<mistnostid>533</mistnostid></mistnost><mistnost><mistnostozn>D2</mistnostozn>
+				<mistnostid>533</mistnostid></mistnost><mistnost><mistnostozn>D2</mistnostozn>
+				<mistnostid>533</mistnostid></mistnost><mistnost><mistnostozn>D2</mistnostozn>
+				<mistnostid>533</mistnostid></mistnost><mistnost><mistnostozn>D2</mistnostozn>
+				<mistnostid>533</mistnostid></mistnost><mistnost><mistnostozn>D2</mistnostozn>
+				<mistnostid>533</mistnostid></mistnost><mistnost><mistnostozn>D2</mistnostozn>
+				<mistnostid>533</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost></mistnosti><akce><kod>PB154</kod><nazev>Základy databázových systémů</nazev><predmetid>1195976</predmetid><fakulta_url>fi</fakulta_url><obdobi_url>podzim2019</obdobi_url></akce>
+	<poznamka id="1" />
+	<ucitele><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel><ucitel><ucitelid>47485</ucitelid><uciteljmeno>P. Zezula</uciteljmeno></ucitel></ucitele>
+	</slot>
+
+	<slot pdiff="16" diff="24" odcas="14:00" docas="15:50"><mistnosti><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost></mistnosti><akce><kod>MB203</kod><nazev>Spoj. modely a stat. B</nazev><predmetid>1234338</predmetid><fakulta_url>fi</fakulta_url><obdobi_url>podzim2019</obdobi_url></akce>
+	<ucitele><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel></ucitele>
+	</slot>
+
+	<slot pdiff="16" diff="24" odcas="16:00" docas="17:50"><mistnosti><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost></mistnosti><akce><kod>IB015</kod><nazev>Neimperativní programování</nazev><predmetid>1195882</predmetid><fakulta_url>fi</fakulta_url><obdobi_url>podzim2019</obdobi_url></akce>
+	<ucitele><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel></ucitele>
+	</slot>
+	<break pdiff="8" diff="12" odcas="18:00" docas="19:00"/>
+	<break pdiff="8" diff="12" odcas="19:00" docas="20:00"/>
+</radek>
+</den>
+<den id="Út" rows="2">
+<radek num="1">
+
+	<slot pdiff="16" diff="24" odcas="08:00" docas="09:50"><mistnosti><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost></mistnosti><akce><kod>PB162</kod><nazev>Programování Java</nazev><predmetid>1237906</predmetid><fakulta_url>fi</fakulta_url><obdobi_url>podzim2019</obdobi_url></akce>
+	<ucitele><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel></ucitele>
+	</slot>
+
+	<slot pdiff="16" diff="24" odcas="10:00" docas="11:50"><mistnosti><mistnost><mistnostozn>C525</mistnostozn>
+				<mistnostid>892</mistnostid></mistnost><mistnost><mistnostozn>C525</mistnostozn>
+				<mistnostid>892</mistnostid></mistnost><mistnost><mistnostozn>C525</mistnostozn>
+				<mistnostid>892</mistnostid></mistnost><mistnost><mistnostozn>C525</mistnostozn>
+				<mistnostid>892</mistnostid></mistnost><mistnost><mistnostozn>C525</mistnostozn>
+				<mistnostid>892</mistnostid></mistnost><mistnost><mistnostozn>C525</mistnostozn>
+				<mistnostid>892</mistnostid></mistnost><mistnost><mistnostozn>C525</mistnostozn>
+				<mistnostid>892</mistnostid></mistnost></mistnosti><akce><kod>IB107/03</kod><nazev>Vyčíslitelnost a složitost</nazev><predmetid>1195884</predmetid><fakulta_url>fi</fakulta_url><obdobi_url>podzim2019</obdobi_url></akce>
+	<poznamka id="3" />
+	<ucitele><ucitel><ucitelid>172743</ucitelid><uciteljmeno>P. Novotný</uciteljmeno></ucitel><ucitel><ucitelid>172743</ucitelid><uciteljmeno>P. Novotný</uciteljmeno></ucitel><ucitel><ucitelid>172743</ucitelid><uciteljmeno>P. Novotný</uciteljmeno></ucitel><ucitel><ucitelid>172743</ucitelid><uciteljmeno>P. Novotný</uciteljmeno></ucitel><ucitel><ucitelid>172743</ucitelid><uciteljmeno>P. Novotný</uciteljmeno></ucitel><ucitel><ucitelid>172743</ucitelid><uciteljmeno>P. Novotný</uciteljmeno></ucitel><ucitel><ucitelid>172743</ucitelid><uciteljmeno>P. Novotný</uciteljmeno></ucitel></ucitele>
+	</slot>
+
+	<slot pdiff="16" diff="24" odcas="12:00" docas="13:50"><mistnosti><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D2</mistnostozn>
+				<mistnostid>533</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost></mistnosti><akce><kod>IB015</kod><nazev>Neimperativní programování</nazev><predmetid>1195882</predmetid><fakulta_url>fi</fakulta_url><obdobi_url>podzim2019</obdobi_url></akce>
+	<poznamka id="4" />
+	<ucitele><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel><ucitel><ucitelid>3496</ucitelid><uciteljmeno>J. Barnat</uciteljmeno></ucitel></ucitele>
+	</slot>
+	<break pdiff="8" diff="12" odcas="14:00" docas="15:00"/>
+	<break pdiff="8" diff="12" odcas="15:00" docas="16:00"/>
+
+	<slot pdiff="16" diff="24" odcas="16:00" docas="17:50"><mistnosti><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost></mistnosti><akce><kod>MB203/02</kod><nazev>Spoj. modely a stat. B</nazev><predmetid>1234338</predmetid><fakulta_url>fi</fakulta_url><obdobi_url>podzim2019</obdobi_url></akce>
+	<ucitele><ucitel><ucitelid>379697</ucitelid><uciteljmeno>M. Šimková</uciteljmeno></ucitel><ucitel><ucitelid>379697</ucitelid><uciteljmeno>M. Šimková</uciteljmeno></ucitel><ucitel><ucitelid>379697</ucitelid><uciteljmeno>M. Šimková</uciteljmeno></ucitel><ucitel><ucitelid>379697</ucitelid><uciteljmeno>M. Šimková</uciteljmeno></ucitel><ucitel><ucitelid>379697</ucitelid><uciteljmeno>M. Šimková</uciteljmeno></ucitel><ucitel><ucitelid>379697</ucitelid><uciteljmeno>M. Šimková</uciteljmeno></ucitel><ucitel><ucitelid>379697</ucitelid><uciteljmeno>M. Šimková</uciteljmeno></ucitel><ucitel><ucitelid>379697</ucitelid><uciteljmeno>M. Šimková</uciteljmeno></ucitel><ucitel><ucitelid>379697</ucitelid><uciteljmeno>M. Šimková</uciteljmeno></ucitel><ucitel><ucitelid>379697</ucitelid><uciteljmeno>M. Šimková</uciteljmeno></ucitel><ucitel><ucitelid>379697</ucitelid><uciteljmeno>M. Šimková</uciteljmeno></ucitel><ucitel><ucitelid>379697</ucitelid><uciteljmeno>M. Šimková</uciteljmeno></ucitel><ucitel><ucitelid>379697</ucitelid><uciteljmeno>M. Šimková</uciteljmeno></ucitel><ucitel><ucitelid>379697</ucitelid><uciteljmeno>M. Šimková</uciteljmeno></ucitel></ucitele>
+	</slot>
+	<break pdiff="8" diff="12" odcas="18:00" docas="19:00"/>
+	<break pdiff="8" diff="12" odcas="19:00" docas="20:00"/>
+</radek>
+<radek num="2">
+
+	<slot pdiff="8" diff="12" odcas="08:00" docas="08:50"><mistnosti><mistnost><mistnostozn>squash centrum Černohorská 20/22</mistnostozn>
+				<mistnostid>1516</mistnostid></mistnost><mistnost><mistnostozn>squash centrum Černohorská 20/22</mistnostozn>
+				<mistnostid>1516</mistnostid></mistnost><mistnost><mistnostozn>squash centrum Černohorská 20/22</mistnostozn>
+				<mistnostid>1516</mistnostid></mistnost><mistnost><mistnostozn>squash centrum Černohorská 20/22</mistnostozn>
+				<mistnostid>1516</mistnostid></mistnost><mistnost><mistnostozn>squash centrum Černohorská 20/22</mistnostozn>
+				<mistnostid>1516</mistnostid></mistnost><mistnost><mistnostozn>squash centrum Černohorská 20/22</mistnostozn>
+				<mistnostid>1516</mistnostid></mistnost><mistnost><mistnostozn>squash centrum Černohorská 20/22</mistnostozn>
+				<mistnostid>1516</mistnostid></mistnost><mistnost><mistnostozn>squash centrum Černohorská 20/22</mistnostozn>
+				<mistnostid>1516</mistnostid></mistnost><mistnost><mistnostozn>squash centrum Černohorská 20/22</mistnostozn>
+				<mistnostid>1516</mistnostid></mistnost><mistnost><mistnostozn>squash centrum Černohorská 20/22</mistnostozn>
+				<mistnostid>1516</mistnostid></mistnost><mistnost><mistnostozn>squash centrum Černohorská 20/22</mistnostozn>
+				<mistnostid>1516</mistnostid></mistnost><mistnost><mistnostozn>squash centrum Černohorská 20/22</mistnostozn>
+				<mistnostid>1516</mistnostid></mistnost></mistnosti><akce><kod>p982/01</kod><nazev>Squash</nazev><predmetid>1230768</predmetid><fakulta_url>fsps</fakulta_url><obdobi_url>podzim2019</obdobi_url></akce>
+	<poznamka id="2" />
+	<ucitele><ucitel><ucitelid>2148</ucitelid><uciteljmeno>Z. Svobodová</uciteljmeno></ucitel><ucitel><ucitelid>2148</ucitelid><uciteljmeno>Z. Svobodová</uciteljmeno></ucitel><ucitel><ucitelid>2148</ucitelid><uciteljmeno>Z. Svobodová</uciteljmeno></ucitel><ucitel><ucitelid>2148</ucitelid><uciteljmeno>Z. Svobodová</uciteljmeno></ucitel><ucitel><ucitelid>2148</ucitelid><uciteljmeno>Z. Svobodová</uciteljmeno></ucitel><ucitel><ucitelid>2148</ucitelid><uciteljmeno>Z. Svobodová</uciteljmeno></ucitel><ucitel><ucitelid>2148</ucitelid><uciteljmeno>Z. Svobodová</uciteljmeno></ucitel><ucitel><ucitelid>2148</ucitelid><uciteljmeno>Z. Svobodová</uciteljmeno></ucitel><ucitel><ucitelid>2148</ucitelid><uciteljmeno>Z. Svobodová</uciteljmeno></ucitel><ucitel><ucitelid>2148</ucitelid><uciteljmeno>Z. Svobodová</uciteljmeno></ucitel><ucitel><ucitelid>2148</ucitelid><uciteljmeno>Z. Svobodová</uciteljmeno></ucitel><ucitel><ucitelid>2148</ucitelid><uciteljmeno>Z. Svobodová</uciteljmeno></ucitel></ucitele>
+	</slot>
+	<break pdiff="8" diff="12" odcas="9:00" docas="10:00"/>
+	<break pdiff="8" diff="12" odcas="10:00" docas="11:00"/>
+	<break pdiff="8" diff="12" odcas="11:00" docas="12:00"/>
+	<break pdiff="8" diff="12" odcas="12:00" docas="13:00"/>
+	<break pdiff="8" diff="12" odcas="13:00" docas="14:00"/>
+	<break pdiff="8" diff="12" odcas="14:00" docas="15:00"/>
+	<break pdiff="8" diff="12" odcas="15:00" docas="16:00"/>
+	<break pdiff="8" diff="12" odcas="16:00" docas="17:00"/>
+	<break pdiff="8" diff="12" odcas="17:00" docas="18:00"/>
+	<break pdiff="8" diff="12" odcas="18:00" docas="19:00"/>
+	<break pdiff="8" diff="12" odcas="19:00" docas="20:00"/>
+</radek>
+</den>
+<den id="St" rows="1">
+<radek num="1">
+
+	<slot pdiff="16" diff="24" odcas="08:00" docas="09:50"><mistnosti><mistnost><mistnostozn>A320</mistnostozn>
+				<mistnostid>12972</mistnostid></mistnost><mistnost><mistnostozn>A320</mistnostozn>
+				<mistnostid>12972</mistnostid></mistnost><mistnost><mistnostozn>A320</mistnostozn>
+				<mistnostid>12972</mistnostid></mistnost><mistnost><mistnostozn>A320</mistnostozn>
+				<mistnostid>12972</mistnostid></mistnost><mistnost><mistnostozn>A320</mistnostozn>
+				<mistnostid>12972</mistnostid></mistnost><mistnost><mistnostozn>A320</mistnostozn>
+				<mistnostid>12972</mistnostid></mistnost><mistnost><mistnostozn>A320</mistnostozn>
+				<mistnostid>12972</mistnostid></mistnost><mistnost><mistnostozn>A320</mistnostozn>
+				<mistnostid>12972</mistnostid></mistnost><mistnost><mistnostozn>A320</mistnostozn>
+				<mistnostid>12972</mistnostid></mistnost><mistnost><mistnostozn>A320</mistnostozn>
+				<mistnostid>12972</mistnostid></mistnost><mistnost><mistnostozn>A320</mistnostozn>
+				<mistnostid>12972</mistnostid></mistnost><mistnost><mistnostozn>A320</mistnostozn>
+				<mistnostid>12972</mistnostid></mistnost><mistnost><mistnostozn>A320</mistnostozn>
+				<mistnostid>12972</mistnostid></mistnost><mistnost><mistnostozn>A320</mistnostozn>
+				<mistnostid>12972</mistnostid></mistnost></mistnosti><akce><kod>MV008/01</kod><nazev>Algebra I</nazev><predmetid>1195925</predmetid><fakulta_url>fi</fakulta_url><obdobi_url>podzim2019</obdobi_url></akce>
+	<ucitele><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel><ucitel><ucitelid>3868</ucitelid><uciteljmeno>O. Klíma</uciteljmeno></ucitel></ucitele>
+	</slot>
+	<break pdiff="8" diff="12" odcas="10:00" docas="11:00"/>
+	<break pdiff="8" diff="12" odcas="11:00" docas="12:00"/>
+
+	<slot pdiff="16" diff="24" odcas="12:00" docas="13:50"><mistnosti><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost></mistnosti><akce><kod>IB107</kod><nazev>Vyčíslitelnost a složitost</nazev><predmetid>1195884</predmetid><fakulta_url>fi</fakulta_url><obdobi_url>podzim2019</obdobi_url></akce>
+	<ucitele><ucitel><ucitelid>44742</ucitelid><uciteljmeno>D. Kráľ</uciteljmeno></ucitel><ucitel><ucitelid>44742</ucitelid><uciteljmeno>D. Kráľ</uciteljmeno></ucitel><ucitel><ucitelid>44742</ucitelid><uciteljmeno>D. Kráľ</uciteljmeno></ucitel><ucitel><ucitelid>44742</ucitelid><uciteljmeno>D. Kráľ</uciteljmeno></ucitel><ucitel><ucitelid>44742</ucitelid><uciteljmeno>D. Kráľ</uciteljmeno></ucitel><ucitel><ucitelid>44742</ucitelid><uciteljmeno>D. Kráľ</uciteljmeno></ucitel><ucitel><ucitelid>44742</ucitelid><uciteljmeno>D. Kráľ</uciteljmeno></ucitel><ucitel><ucitelid>44742</ucitelid><uciteljmeno>D. Kráľ</uciteljmeno></ucitel><ucitel><ucitelid>44742</ucitelid><uciteljmeno>D. Kráľ</uciteljmeno></ucitel><ucitel><ucitelid>44742</ucitelid><uciteljmeno>D. Kráľ</uciteljmeno></ucitel><ucitel><ucitelid>44742</ucitelid><uciteljmeno>D. Kráľ</uciteljmeno></ucitel><ucitel><ucitelid>44742</ucitelid><uciteljmeno>D. Kráľ</uciteljmeno></ucitel><ucitel><ucitelid>44742</ucitelid><uciteljmeno>D. Kráľ</uciteljmeno></ucitel><ucitel><ucitelid>44742</ucitelid><uciteljmeno>D. Kráľ</uciteljmeno></ucitel></ucitele>
+	</slot>
+
+	<slot pdiff="16" diff="24" odcas="14:00" docas="15:50"><mistnosti><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost><mistnost><mistnostozn>A217</mistnostozn>
+				<mistnostid>12965</mistnostid></mistnost></mistnosti><akce><kod>MB203</kod><nazev>Spoj. modely a stat. B</nazev><predmetid>1234338</predmetid><fakulta_url>fi</fakulta_url><obdobi_url>podzim2019</obdobi_url></akce>
+	<ucitele><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel><ucitel><ucitelid>233</ucitelid><uciteljmeno>M. Čadek</uciteljmeno></ucitel></ucitele>
+	</slot>
+
+	<slot pdiff="16" diff="24" odcas="16:00" docas="17:50"><mistnosti><mistnost><mistnostozn>B130</mistnostozn>
+				<mistnostid>4384</mistnostid></mistnost><mistnost><mistnostozn>B130</mistnostozn>
+				<mistnostid>4384</mistnostid></mistnost><mistnost><mistnostozn>B130</mistnostozn>
+				<mistnostid>4384</mistnostid></mistnost><mistnost><mistnostozn>B130</mistnostozn>
+				<mistnostid>4384</mistnostid></mistnost><mistnost><mistnostozn>B130</mistnostozn>
+				<mistnostid>4384</mistnostid></mistnost><mistnost><mistnostozn>B130</mistnostozn>
+				<mistnostid>4384</mistnostid></mistnost><mistnost><mistnostozn>B130</mistnostozn>
+				<mistnostid>4384</mistnostid></mistnost></mistnosti><akce><kod>IB015/09</kod><nazev>Neimperativní programování</nazev><predmetid>1195882</predmetid><fakulta_url>fi</fakulta_url><obdobi_url>podzim2019</obdobi_url></akce>
+	<poznamka id="5" />
+	<ucitele><ucitel><ucitelid>485413</ucitelid><uciteljmeno>M. Kurečka</uciteljmeno></ucitel><ucitel><ucitelid>456149</ucitelid><uciteljmeno>H. Micheľová</uciteljmeno></ucitel><ucitel><ucitelid>485413</ucitelid><uciteljmeno>M. Kurečka</uciteljmeno></ucitel><ucitel><ucitelid>456149</ucitelid><uciteljmeno>H. Micheľová</uciteljmeno></ucitel><ucitel><ucitelid>485413</ucitelid><uciteljmeno>M. Kurečka</uciteljmeno></ucitel><ucitel><ucitelid>456149</ucitelid><uciteljmeno>H. Micheľová</uciteljmeno></ucitel><ucitel><ucitelid>485413</ucitelid><uciteljmeno>M. Kurečka</uciteljmeno></ucitel><ucitel><ucitelid>456149</ucitelid><uciteljmeno>H. Micheľová</uciteljmeno></ucitel><ucitel><ucitelid>485413</ucitelid><uciteljmeno>M. Kurečka</uciteljmeno></ucitel><ucitel><ucitelid>456149</ucitelid><uciteljmeno>H. Micheľová</uciteljmeno></ucitel><ucitel><ucitelid>485413</ucitelid><uciteljmeno>M. Kurečka</uciteljmeno></ucitel><ucitel><ucitelid>456149</ucitelid><uciteljmeno>H. Micheľová</uciteljmeno></ucitel><ucitel><ucitelid>485413</ucitelid><uciteljmeno>M. Kurečka</uciteljmeno></ucitel><ucitel><ucitelid>456149</ucitelid><uciteljmeno>H. Micheľová</uciteljmeno></ucitel></ucitele>
+	</slot>
+
+	<slot pdiff="16" diff="24" odcas="18:00" docas="19:50"><mistnosti><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost><mistnost><mistnostozn>D1</mistnostozn>
+				<mistnostid>534</mistnostid></mistnost></mistnosti><akce><kod>VV028</kod><nazev>Psychologie v informatice</nazev><predmetid>1196096</predmetid><fakulta_url>fi</fakulta_url><obdobi_url>podzim2019</obdobi_url></akce>
+	<ucitele><ucitel><ucitelid>3311</ucitelid><uciteljmeno>J. Prokeš</uciteljmeno></ucitel><ucitel><ucitelid>3311</ucitelid><uciteljmeno>J. Prokeš</uciteljmeno></ucitel><ucitel><ucitelid>3311</ucitelid><uciteljmeno>J. Prokeš</uciteljmeno></ucitel><ucitel><ucitelid>3311</ucitelid><uciteljmeno>J. Prokeš</uciteljmeno></ucitel><ucitel><ucitelid>3311</ucitelid><uciteljmeno>J. Prokeš</uciteljmeno></ucitel><ucitel><ucitelid>3311</ucitelid><uciteljmeno>J. Prokeš</uciteljmeno></ucitel><ucitel><ucitelid>3311</ucitelid><uciteljmeno>J. Prokeš</uciteljmeno></ucitel><ucitel><ucitelid>3311</ucitelid><uciteljmeno>J. Prokeš</uciteljmeno></ucitel><ucitel><ucitelid>3311</ucitelid><uciteljmeno>J. Prokeš</uciteljmeno></ucitel><ucitel><ucitelid>3311</ucitelid><uciteljmeno>J. Prokeš</uciteljmeno></ucitel><ucitel><ucitelid>3311</ucitelid><uciteljmeno>J. Prokeš</uciteljmeno></ucitel><ucitel><ucitelid>3311</ucitelid><uciteljmeno>J. Prokeš</uciteljmeno></ucitel><ucitel><ucitelid>3311</ucitelid><uciteljmeno>J. Prokeš</uciteljmeno></ucitel><ucitel><ucitelid>3311</ucitelid><uciteljmeno>J. Prokeš</uciteljmeno></ucitel></ucitele>
+	</slot>
+</radek>
+</den>
+<den id="Čt" rows="1">
+<radek num="1">
+	<break pdiff="8" diff="12" odcas="8:00" docas="9:00"/>
+	<break pdiff="8" diff="12" odcas="9:00" docas="10:00"/>
+
+	<slot pdiff="16" diff="24" odcas="10:00" docas="11:50"><mistnosti><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost><mistnost><mistnostozn>B204</mistnostozn>
+				<mistnostid>773</mistnostid></mistnost></mistnosti><akce><kod>PB154/03</kod><nazev>Základy databázových systémů</nazev><predmetid>1195976</predmetid><fakulta_url>fi</fakulta_url><obdobi_url>podzim2019</obdobi_url></akce>
+	<poznamka id="6" />
+	<ucitele><ucitel><ucitelid>2907</ucitelid><uciteljmeno>M. Batko</uciteljmeno></ucitel><ucitel><ucitelid>2907</ucitelid><uciteljmeno>M. Batko</uciteljmeno></ucitel><ucitel><ucitelid>2907</ucitelid><uciteljmeno>M. Batko</uciteljmeno></ucitel><ucitel><ucitelid>2907</ucitelid><uciteljmeno>M. Batko</uciteljmeno></ucitel><ucitel><ucitelid>2907</ucitelid><uciteljmeno>M. Batko</uciteljmeno></ucitel><ucitel><ucitelid>2907</ucitelid><uciteljmeno>M. Batko</uciteljmeno></ucitel><ucitel><ucitelid>2907</ucitelid><uciteljmeno>M. Batko</uciteljmeno></ucitel></ucitele>
+	</slot>
+	<break pdiff="8" diff="12" odcas="12:00" docas="13:00"/>
+	<break pdiff="8" diff="12" odcas="13:00" docas="14:00"/>
+	<break pdiff="8" diff="12" odcas="14:00" docas="15:00"/>
+	<break pdiff="8" diff="12" odcas="15:00" docas="16:00"/>
+
+	<slot pdiff="16" diff="24" odcas="16:00" docas="17:50"><mistnosti><mistnost><mistnostozn>B311</mistnostozn>
+				<mistnostid>791</mistnostid></mistnost><mistnost><mistnostozn>B311</mistnostozn>
+				<mistnostid>791</mistnostid></mistnost><mistnost><mistnostozn>B311</mistnostozn>
+				<mistnostid>791</mistnostid></mistnost><mistnost><mistnostozn>B311</mistnostozn>
+				<mistnostid>791</mistnostid></mistnost><mistnost><mistnostozn>B311</mistnostozn>
+				<mistnostid>791</mistnostid></mistnost><mistnost><mistnostozn>B311</mistnostozn>
+				<mistnostid>791</mistnostid></mistnost><mistnost><mistnostozn>B311</mistnostozn>
+				<mistnostid>791</mistnostid></mistnost><mistnost><mistnostozn>B311</mistnostozn>
+				<mistnostid>791</mistnostid></mistnost><mistnost><mistnostozn>B311</mistnostozn>
+				<mistnostid>791</mistnostid></mistnost><mistnost><mistnostozn>B311</mistnostozn>
+				<mistnostid>791</mistnostid></mistnost><mistnost><mistnostozn>B311</mistnostozn>
+				<mistnostid>791</mistnostid></mistnost><mistnost><mistnostozn>B311</mistnostozn>
+				<mistnostid>791</mistnostid></mistnost><mistnost><mistnostozn>B311</mistnostozn>
+				<mistnostid>791</mistnostid></mistnost><mistnost><mistnostozn>B311</mistnostozn>
+				<mistnostid>791</mistnostid></mistnost></mistnosti><akce><kod>PB162/14</kod><nazev>Programování Java</nazev><predmetid>1237906</predmetid><fakulta_url>fi</fakulta_url><obdobi_url>podzim2019</obdobi_url></akce>
+	<ucitele><ucitel><ucitelid>396296</ucitelid><uciteljmeno>K. Dočkalová Burská</uciteljmeno></ucitel><ucitel><ucitelid>396296</ucitelid><uciteljmeno>K. Dočkalová Burská</uciteljmeno></ucitel><ucitel><ucitelid>396296</ucitelid><uciteljmeno>K. Dočkalová Burská</uciteljmeno></ucitel><ucitel><ucitelid>396296</ucitelid><uciteljmeno>K. Dočkalová Burská</uciteljmeno></ucitel><ucitel><ucitelid>396296</ucitelid><uciteljmeno>K. Dočkalová Burská</uciteljmeno></ucitel><ucitel><ucitelid>396296</ucitelid><uciteljmeno>K. Dočkalová Burská</uciteljmeno></ucitel><ucitel><ucitelid>396296</ucitelid><uciteljmeno>K. Dočkalová Burská</uciteljmeno></ucitel><ucitel><ucitelid>396296</ucitelid><uciteljmeno>K. Dočkalová Burská</uciteljmeno></ucitel><ucitel><ucitelid>396296</ucitelid><uciteljmeno>K. Dočkalová Burská</uciteljmeno></ucitel><ucitel><ucitelid>396296</ucitelid><uciteljmeno>K. Dočkalová Burská</uciteljmeno></ucitel><ucitel><ucitelid>396296</ucitelid><uciteljmeno>K. Dočkalová Burská</uciteljmeno></ucitel><ucitel><ucitelid>396296</ucitelid><uciteljmeno>K. Dočkalová Burská</uciteljmeno></ucitel><ucitel><ucitelid>396296</ucitelid><uciteljmeno>K. Dočkalová Burská</uciteljmeno></ucitel><ucitel><ucitelid>396296</ucitelid><uciteljmeno>K. Dočkalová Burská</uciteljmeno></ucitel></ucitele>
+	</slot>
+	<break pdiff="8" diff="12" odcas="18:00" docas="19:00"/>
+	<break pdiff="8" diff="12" odcas="19:00" docas="20:00"/>
+</radek>
+</den>
+<den id="Pá" rows="1">
+<radek num="1">
+
+	<slot pdiff="16" diff="24" odcas="08:00" docas="09:50"><mistnosti><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost><mistnost><mistnostozn>D3</mistnostozn>
+				<mistnostid>2362</mistnostid></mistnost></mistnosti><akce><kod>PB162</kod><nazev>Programování Java</nazev><predmetid>1237906</predmetid><fakulta_url>fi</fakulta_url><obdobi_url>podzim2019</obdobi_url></akce>
+	<ucitele><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel><ucitel><ucitelid>94</ucitelid><uciteljmeno>T. Pitner</uciteljmeno></ucitel><ucitel><ucitelid>3636</ucitelid><uciteljmeno>R. Ošlejšek</uciteljmeno></ucitel></ucitele>
+	</slot>
+	<break pdiff="8" diff="12" odcas="10:00" docas="11:00"/>
+	<break pdiff="8" diff="12" odcas="11:00" docas="12:00"/>
+	<break pdiff="8" diff="12" odcas="12:00" docas="13:00"/>
+	<break pdiff="8" diff="12" odcas="13:00" docas="14:00"/>
+	<break pdiff="8" diff="12" odcas="14:00" docas="15:00"/>
+	<break pdiff="8" diff="12" odcas="15:00" docas="16:00"/>
+	<break pdiff="8" diff="12" odcas="16:00" docas="17:00"/>
+	<break pdiff="8" diff="12" odcas="17:00" docas="18:00"/>
+	<break pdiff="8" diff="12" odcas="18:00" docas="19:00"/>
+	<break pdiff="8" diff="12" odcas="19:00" docas="20:00"/>
+</radek>
+</den>
+</tabulka>
+<poznamky>
+	<poznamka id="1">Po 12:00–13:50, kromě 16. 12. (<a href="/auth/kontakty/mistnost?fakulta=1433;obdobi=7643;id=534">D1</a>; <a href="/auth/kontakty/mistnost?fakulta=1433;obdobi=7643;id=533">D2</a>; <a href="/auth/kontakty/mistnost?fakulta=1433;obdobi=7643;id=2362">D3</a>; 16. 9., 23. 9., 30. 9., 7. 10., 14. 10., 21. 10., 4. 11., 11. 11., 18. 11., 25. 11., 2. 12. a 9. 12.),  Po 16. 12. 12:00–13:50 (<a href="/auth/kontakty/mistnost?fakulta=1433;obdobi=7643;id=534">D1</a>) a  Po 16. 12. 12:00–13:50 (<a href="/auth/kontakty/mistnost?fakulta=1433;obdobi=7643;id=533">D2</a>)</poznamka>
+	<poznamka id="2">pouze Út 17. 9. 8:00–8:50,  Út 24. 9. 8:00–8:50,  Út 1. 10. 8:00–8:50,  Út 8. 10. 8:00–8:50,  Út 15. 10. 8:00–8:50,  Út 22. 10. 8:00–8:50,  Út 29. 10. 8:00–8:50,  Út 5. 11. 8:00–8:50,  Út 12. 11. 8:00–8:50,  Út 19. 11. 8:00–8:50,  Út 26. 11. 8:00–8:50 a  Út 3. 12. 8:00–8:50</poznamka>
+	<poznamka id="3">každé sudé úterý 10:00–11:50 (17. 9., 1. 10., 15. 10., 29. 10., 12. 11., 26. 11. a 10. 12.)</poznamka>
+	<poznamka id="4">Út 12:00–13:50, kromě 8. 10. (<a href="/auth/kontakty/mistnost?fakulta=1433;obdobi=7643;id=534">D1</a>; <a href="/auth/kontakty/mistnost?fakulta=1433;obdobi=7643;id=2362">D3</a>; 17. 9., 24. 9., 1. 10., 15. 10., 22. 10., 29. 10., 5. 11., 12. 11., 19. 11., 26. 11., 3. 12., 10. 12. a 17. 12.),  Út 8. 10. 12:00–13:50 (<a href="/auth/kontakty/mistnost?fakulta=1433;obdobi=7643;id=533">D2</a>) a  Út 8. 10. 12:00–13:50 (<a href="/auth/kontakty/mistnost?fakulta=1433;obdobi=7643;id=2362">D3</a>)</poznamka>
+	<poznamka id="5">každou lichou středu 16:00–17:50 (25. 9., 9. 10., 23. 10., 6. 11., 20. 11., 4. 12. a 18. 12.)</poznamka>
+	<poznamka id="6">každý sudý čtvrtek 10:00–11:50 (19. 9., 3. 10., 17. 10., 31. 10., 14. 11., 28. 11. a 12. 12.)</poznamka>
+</poznamky>
+</rozvrh>
