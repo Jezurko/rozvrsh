@@ -1,6 +1,7 @@
 #!/bin/bash
 
-sourcefile='muj_rozvrh.xml'
+base="$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")"
+sourcefile="$base/muj_rozvrh.xml"
 #this would be nice as a switch, but that is too much work this project
 print_empty_days=true
 
@@ -27,8 +28,17 @@ fi
 
 if [ $# -eq 1 ]
 then
-    sed "s/sourcefile='.*'/sourcefile='$1'/" "$0" > "new_$0"
-    echo "New script version (with new source path) generated in \"new_$0\"."
+    new_source=$PWD/$1
+    if [ "${1::1}" = "/" ]
+    then
+        new_source=$1
+    else
+        name=$(basename "$(readlink -f "${BASH_SOURCE[0]}")")
+        old_script="${base}/$name"
+        new_script="${base}/new_$name"
+        sed "s/sourcefile=\".*\"/sourcefile=\"${new_source//\//\\/}\"/" "$old_script" > "$new_script"
+    fi
+    echo "New script version (with new source path) generated in \"$new_script\"."
 fi
 
 days=(Po Út St Čt Pá)
