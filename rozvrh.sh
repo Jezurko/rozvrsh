@@ -7,6 +7,7 @@ print_empty_days=true
 
 vertical_delimiter='│'
 horizontal_delimiter='―'
+filler='·'
 
 if [ $# -gt 2 ]
 then
@@ -32,12 +33,11 @@ then
     if [ "${1::1}" = "/" ]
     then
         new_source=$1
-    else
-        name=$(basename "$(readlink -f "${BASH_SOURCE[0]}")")
-        old_script="${base}/$name"
-        new_script="${base}/new_$name"
-        sed "s/sourcefile=\".*\"/sourcefile=\"${new_source//\//\\/}\"/" "$old_script" > "$new_script"
     fi
+    name=$(basename "$(readlink -f "${BASH_SOURCE[0]}")")
+    old_script="${base}/$name"
+    new_script="${base}/new_$name"
+    sed "s/sourcefile=\".*\"/sourcefile=\"${new_source//\//\\/}\"/" "$old_script" > "$new_script"
     echo "New script version (with new source path) generated in \"$new_script\"."
 fi
 
@@ -61,7 +61,7 @@ function print_vertical_line {
 }
 
 function print_empty_slot {
-    for ((k=0; k<block_width; k++)); do echo -n "·"; done
+    for ((k=0; k<block_width; k++)); do echo -n "$filler"; done
     echo -n "$vertical_delimiter"
 }
 
