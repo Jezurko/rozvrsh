@@ -49,11 +49,13 @@ endtime=$(grep -m 1 maxhod "$sourcefile" | awk -F '[<>]' '{print $3}')
 num_of_blocks=$(( (endtime-begintime) / 60 ))
 block_width=$(( (cols-4) / num_of_blocks - 1))
 
+#I don't understand why this is the correct arithmetics, but ¯\_(ツ)_/¯
+#cols - 4  was misbehaving on narrow terminal
+vertical_line_len=$((num_of_blocks * (block_width + 1) + 1))
+
 function print_vertical_line {
     echo -n "   "
-    #I don't understand why this is the correct arithmetics, but ¯\_(ツ)_/¯
-    #cols - 4  was misbehaving on narrow terminal
-    for ((i=0; i<(num_of_blocks * (block_width + 1) + 1); i++))
+    for ((i=0; i<vertical_line_len; i++))
     do
         echo -n "$horizontal_delimiter"
     done
@@ -61,18 +63,22 @@ function print_vertical_line {
 }
 
 function print_empty_slot {
-    for ((k=0; k<block_width; k++)); do echo -n "$filler"; done
+    for ((k=0; k<block_width; k++))
+    do
+        echo -n "$filler"
+    done
     echo -n "$vertical_delimiter"
 }
 
+#get block length (times 12, idk why, ask IS) and room
+len_room='s/.*diff="([0-9][0-9]).*mistnostozn>(.*)<\/mistnostozn.*/\1, \2/'
+#get subject code and name
+code_name='s/.*<kod>(.*)<\/kod><nazev>(.*)<\/nazev>.*/\1, \2/'
+#get empty slots(breaks)
+empty='s/\s*<break.*diff="([0-9][0-9]).*/\1/'
+
 function print_row {
     row=$(echo "$1" | awk "/<radek num=\"$2\">/,/<\/radek>/ { print }")
-    #get block length (times 12, idk why, ask IS) and room
-    len_room='s/.*diff="([0-9][0-9]).*mistnostozn>(.*)<\/mistnostozn.*/\1, \2/'
-    #get subject code and name
-    code_name='s/.*<kod>(.*)<\/kod><nazev>(.*)<\/nazev>.*/\1, \2/'
-    #get empty slots(breaks)
-    empty='s/\s*<break.*diff="([0-9][0-9]).*/\1/'
     #the awk command concats lines created by len_room and code_name
     #it is stolen magic from https://stackoverflow.com/a/22702103
     blocks=$(echo "$row" | sed -r "$len_room;$code_name;$empty;t;d" |
@@ -88,8 +94,7 @@ function print_row {
         while read -r line
         do
             #this is stolen from https://stackoverflow.com/a/45201229
-            readarray -td ", " block <<<"$line, "; unset 'block[-1]';\
-                declare -p block >/dev/null
+            readarray -td ", " block <<<"$line, "; unset 'block[-1]'
             if [ "${#block[@]}" -eq 1 ]
             then
                 print_empty_slot
@@ -102,9 +107,15 @@ function print_row {
                 then
                     echo -n " "
                 fi
-                for ((ii=0; ii<padding; ii++)); do echo -n " "; done
-                echo -n "${block[$i]}" | cut -z -c 1-$((width))
-                for ((ii=0; ii<padding; ii++)); do echo -n " "; done
+                for ((ii=0; ii<padding; ii++))
+                do
+                    echo -n " "
+                done
+                echo -n "${block[$i]::$width}"
+                for ((ii=0; ii<padding; ii++))
+                do
+                    echo -n " "
+                done
                 echo -n "$vertical_delimiter"
             fi
         done <<< "$blocks"
@@ -119,8 +130,8 @@ function print_day {
     if [ -n "$day" ]
     then
         #how many "rows" are there in a day - when the timetable has colisions
-        rows=$(echo "$day" | grep '<den id' | sed 's/.*rows="//; s/">.*//')
-        for i in $(seq 1 "$rows")
+        rows=$(echo "$day" | grep -m 1 '<den id' | sed 's/.*rows="//; s/">.*//')
+        for ((i=1; i<=rows; i++))
         do
             print_row "$day" "$i" "$1"
         done
@@ -144,15 +155,19 @@ function print_day {
     fi
 }
 
+time_filter='/<hodiny>/,/<\/hodiny>/ { print }'
+time_get='s/.*<od>(.*)<\/od>.*/\1/'
+
 function print_times {
-    time_filter='/<hodiny>/,/<\/hodiny>/ { print }'
-    time_get='s/.*<od>(.*)<\/od>.*/\1/'
     times=$(awk "$time_filter" "$sourcefile" | sed -r "$time_get;t;d")
     echo -n "   "
     for i in $times
     do
         echo -n "$i"
-        for ((ii=0; ii<(block_width + 1 - ${#i}); ii++)); do echo -n " "; done
+        for ((ii=0; ii<(block_width + 1 - ${#i}); ii++))
+        do
+            echo -n " "
+        done
     done
     echo
 }
